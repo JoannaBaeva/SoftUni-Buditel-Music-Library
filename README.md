@@ -17,9 +17,18 @@ The **Music Library** is a Single Page Application (SPA) for managing music coll
 ```
 git clone https://github.com/your-username/music-library
 ```
-3. Navigate to the directory: `cd music-library`
-4. Install dependencies: `npm install`
-5. Start the app: `npm start`  
+3. Navigate to the directory:
+```
+cd music-library
+```
+5. Install dependencies:
+```
+npm install
+```
+7. Start the app:
+```
+npm start
+```  
    Access the app at [http://localhost:3000](http://localhost:3000).  
 
 ## 📚 Features
